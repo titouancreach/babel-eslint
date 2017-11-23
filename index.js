@@ -415,7 +415,6 @@ exports.parseNoPatch = function(code, options) {
       "classPrivateProperties",
       "bigInt",
       "optionalCatchBinding",
-      "nullishCoalescingOperator",
     ],
   };
 
